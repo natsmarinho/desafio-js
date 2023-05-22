@@ -8,4 +8,4 @@ function numPositivoOuNegativo (num) {
     }
 }
 
-console.log(numPositivoOuNegativo(0))
+console.log(numPositivoOuNegativo(0))   
