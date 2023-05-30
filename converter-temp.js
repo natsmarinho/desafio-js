@@ -3,4 +3,4 @@ function converteTemperatura(celcius) {
     return `A temperatura em ${celcius} é de: ${fahrenheit}`;
 }
 
-console.log(converteTemperatura(32));
+console.log(converteTemperatura(32));   
