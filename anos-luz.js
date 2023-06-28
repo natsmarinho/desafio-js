@@ -5,4 +5,4 @@ function converteAnoLuz(anoLuz) {
     return `Cerca de ${calculoAnosLuz} anos luz`
 }
 
-console.log(converteAnoLuz(4))
+console.log(converteAnoLuz(4))  
